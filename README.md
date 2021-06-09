@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Etisha Mathurvaishya
-- 👀 I’m interested in Backend Development, Problem Solving and Databases
+- 👀 I’m interested in Backend Development, Problem Solving, Logic Building and Databases
 - 🌱 I’m currently learning Spring and React
-- 💞️ Some of my skills are Java, Javascript, Android Studio, MySQL
+- 💞️ Some of my skills are Java, Javascript, Android Studio, Python, Machine Learning, MySQL
 - 📫 How to reach me 
-          Email: etisha.mathur@gmail.com
-          LinkedIn: www.linkedin.com/in/etishamathur
+  - Email: etisha.mathur@gmail.com
+  - LinkedIn: www.linkedin.com/in/etishamathur
           
 
 <!---
